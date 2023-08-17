@@ -1,0 +1,14 @@
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\bin\Debug\Ele Mentos.exe.config
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\bin\Debug\Ele Mentos.exe
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\bin\Debug\Ele Mentos.pdb
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele Mentos.csproj.AssemblyReference.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele Mentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele_Mentos.Properties.Resources.resources
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele Mentos.csproj.GenerateResource.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele Mentos.csproj.CoreCompileInputs.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele Mentos.exe
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele Mentos.pdb
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele_Mentos.Form1.resources
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele_Mentos.Atividade.resources
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele_Mentos.imagen.resources
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\Ele Mentos\Ele Mentos\obj\Debug\Ele_Mentos.AtividadeEmersom.resources
