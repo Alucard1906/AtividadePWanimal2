@@ -1,0 +1,14 @@
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade emerson.csproj.AssemblyReference.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade emerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade_emerson.Form1.resources
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade_emerson.Properties.Resources.resources
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade emerson.csproj.GenerateResource.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade emerson.csproj.CoreCompileInputs.cache
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\bin\Debug\atividade emerson.exe.config
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\bin\Debug\atividade emerson.exe
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\bin\Debug\atividade emerson.pdb
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade emerson.exe
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade emerson.pdb
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\bin\Debug\aa-DJ\atividade emerson.resources.dll
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\atividade_emerson.Form1.aa-DJ.resources
+C:\Users\DIMITRIGABRIELLIMADA\source\repos\atividade emerson\atividade emerson\obj\Debug\aa-DJ\atividade emerson.resources.dll
